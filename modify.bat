@@ -1,3 +1,4 @@
+SET PATH=%PATH%;C:\Program Files\Oracle\VirtualBox
 VBoxManage.exe setextradata "Scam" "VBoxInternal/Devices/pcbios/0/Config/DmiSystemVendor" "HP"
 VBoxManage.exe setextradata "Scam" "VBoxInternal/Devices/pcbios/0/Config/DmiSystemProduct" "ENVY dv7"
 VBoxManage.exe setextradata "Scam" "VBoxInternal/Devices/pcbios/0/Config/DmiSystemVersion" "<empty>"
